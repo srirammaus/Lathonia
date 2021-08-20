@@ -1,0 +1,350 @@
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 14:07:30 2021}
+IP_ADDR :127.0.0.1]
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 14:07:34 2021}
+IP_ADDR :127.0.0.1]
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 14:09:14 2021}
+IP_ADDR :127.0.0.1]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 14:09:18 2021}
+IP_ADDR :127.0.0.1]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 14:10:48 2021}
+IP_ADDR :127.0.0.1]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 14:10:52 2021}
+IP_ADDR :127.0.0.1]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 14:12:00 2021}
+IP_ADDR :127.0.0.1]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 14:12:04 2021}
+IP_ADDR :127.0.0.1]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 14:23:20 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 14:23:24 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 15:50:12 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 15:50:16 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 15:50:30 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 15:50:34 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {verification Error line 79:(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 16:05:08 2021}
+IP_ADDR :srirammaus
+Username : srirammaus]
+
+[Error Handler : {verification Error line 79:(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Mon Aug  9 16:05:12 2021}
+IP_ADDR :srirammaus
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 12:29:12 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 12:30:14 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:04:44 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:06:55 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:08:16 2021}
+IP_ADDR :default
+Username : srirammasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:08:23 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:10:57 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:12:38 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:16:48 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:17:34 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:18:29 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:19:01 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:19:42 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:21:18 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:21:55 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:23:54 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:24:28 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:25:31 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:26:05 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:27:34 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:29:09 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:31:37 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Thu Aug 12 13:32:21 2021}
+IP_ADDR :default
+Username : srirasssmmasus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:14:53 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:15:17 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:17:29 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:19:04 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:23:51 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:24:49 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:25:12 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:26:37 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:28:45 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:29:08 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:31:02 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:32:19 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:33:09 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:36:00 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 16:46:29 2021}
+IP_ADDR :default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 17:18:19 2021}
+IP_ADDR :Default
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 17:31:28 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 12 17:31:32 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Tue Aug 17 14:09:23 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Tue Aug 17 14:09:48 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Tue Aug 17 16:26:47 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Wed Aug 18 17:18:43 2021}
+IP_ADDR :Default
+Username : Karthick]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Wed Aug 18 17:19:07 2021}
+IP_ADDR :Default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 19 13:34:22 2021}
+IP_ADDR :Default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 19 13:36:49 2021}
+IP_ADDR :Default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 19 13:38:41 2021}
+IP_ADDR :Default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 19 13:41:25 2021}
+IP_ADDR :Default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 19 13:41:37 2021}
+IP_ADDR :Default
+Username : srirammaus]
+
+[Error Handler : {Duplicate Error line 171 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 19 22:47:02 2021}
+IP_ADDR :127.0.0.1
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 19 22:47:07 2021}
+IP_ADDR :Default
+Username : srirammaus]
+
+[Error Handler : {Verfication Error 139 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Thu Aug 19 23:59:47 2021}
+IP_ADDR :Default
+Username : srirammaus1@gmail.com]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Fri Aug 20 00:07:54 2021}
+IP_ADDR :Default
+Username : srirammaus1@gmail.com]
+
+[{Unexpected Unknown error occured in Login Error 287}
+Date Time :  {Fri Aug 20 00:08:45 2021}
+IP_ADDR :Default
+Username : srirammaus1@gmail.com]
+

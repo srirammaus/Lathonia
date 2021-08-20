@@ -1,0 +1,55 @@
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Tue Aug 17 22:45:00 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Tue Aug 17 23:18:08 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Tue Aug 17 23:42:57 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Tue Aug 17 23:43:13 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Tue Aug 17 23:43:44 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Wed Aug 18 10:48:46 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Wed Aug 18 10:49:09 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Wed Aug 18 10:51:55 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Wed Aug 18 10:52:20 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Wed Aug 18 10:53:04 2021}
+IP_ADDR :default
+Username : Karthick]
+
+[Error Handler : {Verfication Error 109 :(2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")}
+Date Time : {Wed Aug 18 10:53:28 2021}
+IP_ADDR :default
+Username : Karthick]
+

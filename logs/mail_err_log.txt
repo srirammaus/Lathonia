@@ -1,0 +1,11 @@
+Unknown Mail_Error =>
+
+Unknown Mail_Error =>
+
+Mail_Error _GiaErr=>[Errno 11001] getaddrinfo failed
+Date Time :Mon Aug  9 16:31:20 2021
+
+Mail_Error _GiaErr=>[Errno 11001] getaddrinfo failed
+Date Time :Mon Aug  9 16:31:30 2021
+
+[{'Unknown Error At Mail Activater in Line 87 :  \n\n'}]

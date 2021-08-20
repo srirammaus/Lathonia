@@ -1,0 +1,16 @@
+we need to invalidate otp within 120 seconds
+oauth 2.0
+mail server synchronous
+
+str checking
+comparision checking
+where to put recursion checking
+mail-in synch
+
+mail - module pending works
+
+#wed Aug 11 2021
+
+gonna do check whether the email is @gmail.com ,@yahoo,like etcc..
+
+#add Five numbers inDB
