@@ -31,7 +31,7 @@ import random
 from lathonia.library_ import sql,queries,lib,Exceptor
 db_ =sql.sql()
 login_username = "srirammaus1@gmail.com"
-login_password = "maussriram"
+login_password = "------"
 user_id = login_username.strip()
 pwd = login_password.strip()
 host='127.0.0.1'
