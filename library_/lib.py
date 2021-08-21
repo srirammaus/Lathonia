@@ -12,7 +12,7 @@ import time
 from lathonia.library_ import  sql
 db_ = sql.sql()
 login_username = "srirammaus1@gmail.com"
-login_password = "maussriram"
+login_password = "---"
 # reciver = "srirammaus1@gmail.com"
 def mailing(user_id,pwd,mail_id,rd):
     try:
