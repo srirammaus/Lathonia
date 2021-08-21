@@ -6,7 +6,6 @@ provide proper response by the cor
 from lathonia.library_ import otp,signup,login,OAuth
 from flask import Flask
 import subprocess
-print("done")
 app = Flask(__name__)
 @app.route('/signup',methods=['GET'])
 def sign_up():
